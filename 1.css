@@ -67,7 +67,13 @@ body {
   }
   
   
+
+  .feature-accessories {
+    padding-top: 65px;
+    background-image: url("img/accessories.svg");
+  }
   
+
   
   .advantages {
     width: 510px;
