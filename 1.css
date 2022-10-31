@@ -35,12 +35,14 @@ h2 {
 
 .site-header {
   min-width: 550px;
-  height: 90px;
-  margin-bottom: 100px;
+  margin-top: 30px;
+  height: 100px;
+  margin-bottom: 30px;
   padding-top: 30px;
   background: #847462 no-repeat center url("img/Screenshot_1-21.png");
   background-size: cover;
   color: #ffffff;
+
 }
 
 .site-header p {
@@ -73,7 +75,7 @@ h2 {
 }
 
 .CHJ {
-  margin-bottom: 10px;
+  margin-bottom: 100px;
   margin-top: 10px;
   margin-left: 125px;
 }
@@ -125,6 +127,7 @@ h2 {
     min-width: 550px;
     background-color: #847462;
     color: #ffffff;
+    margin-bottom: 30px;
   }
 
   .site-footer p {
