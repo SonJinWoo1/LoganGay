@@ -8,7 +8,7 @@ body {
   }
   
   h1 {
-    width: 255px;
+    width: 265px;
     margin: 0 auto 8px;
     font-family: "Georgia", serif;
     text-align: center;
@@ -33,7 +33,6 @@ body {
     height: 186px;
     margin-bottom: 70px;
     padding-top: 30px;
-    background: #847462 no-repeat center url("img/Screenshot_1-21.png");
     background-size: cover;
     color: #ffffff;
   }
@@ -67,20 +66,8 @@ body {
     text-align: center;
   }
   
-  .feature-furniture {
-    padding-top: 65px;
-    background-image: url("");
-  }
   
-  .feature-lighting {
-    padding-top: 65px;
-    background-image: url("img/sofa.png");
-  }
   
-  .feature-accessories {
-    padding-top: 65px;
-    background-image: url("img/accessories.svg");
-  }
   
   .advantages {
     width: 510px;
