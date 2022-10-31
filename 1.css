@@ -109,18 +109,3 @@ h2 {
   border-color: #ffb864;
   color: #000000;
   }
-.site-footer {
-  min-width: 550px;
-  background-color: #847462;
-  color: #ffffff;
-}
-
-.site-footer .container {
-  text-align: center;
-}
-
-.site-footer p {
-  display: inline-block;
-  vertical-align: middle;
-  padding: 0 20px;
-}
