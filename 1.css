@@ -30,7 +30,7 @@ h2 {
 
 .logo {
   padding: auto;
-
+  margin-right: 1000;
 }
 
 .site-header {
@@ -60,6 +60,7 @@ h2 {
   width: 410px;
   margin: 0 auto 30px;
   padding: 0 100px;
+  margin-bottom: 2;
 }
 
 .features p {
