@@ -1,5 +1,5 @@
 body {
-<<<<<<< Updated upstream
+
   margin: 0;
   padding: 0;
   font-family: "Arial", sans-serif;
@@ -32,10 +32,14 @@ h2 {
 .logo {
   padding: auto;
 
+  margin-right: 1000;
+
 }
 
 .site-header {
   min-width: 550px;
+  height: 90px;
+  margin-bottom: 100px;
   margin-top: 30px;
   height: 100px;
   margin-bottom: 30px;
@@ -63,6 +67,7 @@ h2 {
   width: 410px;
   margin: 0 auto 30px;
   padding: 0 100px;
+  margin-bottom: 2;
 }
 
 .features p {
@@ -76,6 +81,7 @@ h2 {
 }
 
 .CHJ {
+  margin-bottom: 10px;
   margin-bottom: 100px;
   margin-top: 10px;
   margin-left: 125px;
@@ -194,9 +200,6 @@ h2 {
     background-image: url("img/accessories.svg");
   }
   
->>>>>>> Stashed changes
-
-  
   .advantages {
     width: 510px;
     margin: 0 auto 40px;
@@ -233,7 +236,6 @@ h2 {
   .site-footer .container {
     text-align: center;
   }
-<<<<<<< Updated upstream
   .site-footer {
     min-width: 550px;
     background-color: #847462;
@@ -246,14 +248,29 @@ h2 {
     vertical-align: middle;
     padding: 0 10px;
   }
+  .site-footer {
+    min-width: 550px;
+    background-color: #847462;
+    color: #ffffff;
+  }
+
+  .site-footer p {
+    display: inline-block;
+    vertical-align: middle;
+    padding: 0 10px;
+  }
   
   .site-footer .container {
     text-align: center;
-=======
+
+  
+  .site-footer .container {
+    text-align: center;
+
   
   .site-footer p {
     display: inline-block;
     vertical-align: middle;
     padding: 0 20px;
->>>>>>> Stashed changes
+
   }
